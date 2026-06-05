@@ -1,0 +1,14 @@
+[
+  {
+    "kana": "コクボタロウ",
+    "tel4": "5678",
+    "result": "win",
+    "targetUrl": "https://example.com/winner"
+  },
+  {
+    "kana": "ヤマダハナコ",
+    "tel4": "1234",
+    "result": "lose",
+    "targetUrl": "https://example.com/lose"
+  }
+]
