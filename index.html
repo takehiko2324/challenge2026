@@ -55,12 +55,8 @@ async function checkResult() {
       <button onclick="location.href='${hit.targetUrl}'">本申込へ進む</button>
     `;
   } else {
-    message.innerHTML = `
-      <h2>今回は非当選となりました</h2>
-      <p>代替イベントのご案内ページへお進みください。</p>
-      <button onclick="location.href='${hit.targetUrl}'">代替イベントを見る</button>
-    `;
-  }
+    location.href = "lose.html";
+}
 }
 </script>
 
