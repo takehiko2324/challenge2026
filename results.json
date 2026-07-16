@@ -1,13 +1,976 @@
 [
   {
-    "kana": "コクボタロウ",
-    "tel4": "5678",
+    "kana": "タカヤナギリュウキ",
+    "tel4": "8033",
+    "result": "lose"
+  },
+  {
+    "kana": "タカヤナギキララ",
+    "tel4": "8033",
     "result": "win",
     "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
   },
   {
-    "kana": "ヤマダハナコ",
-    "tel4": "1234",
+    "kana": "シバハラユウト",
+    "tel4": "8999",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ヤマトヤミユウ",
+    "tel4": "9667",
+    "result": "lose"
+  },
+  {
+    "kana": "ヤマモトエリ",
+    "tel4": "0844",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ワタナベトム",
+    "tel4": "0586",
+    "result": "lose"
+  },
+  {
+    "kana": "ツカゴシハルト",
+    "tel4": "6591",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アサヒナトモキ",
+    "tel4": "8295",
+    "result": "lose"
+  },
+  {
+    "kana": "セキグチナズナ",
+    "tel4": "5942",
+    "result": "lose"
+  },
+  {
+    "kana": "コバヤシエイト",
+    "tel4": "1289",
+    "result": "lose"
+  },
+  {
+    "kana": "コバヤシタイチ",
+    "tel4": "1289",
+    "result": "lose"
+  },
+  {
+    "kana": "カキウチサナエ",
+    "tel4": "0127",
+    "result": "lose"
+  },
+  {
+    "kana": "サカイユイト",
+    "tel4": "1925",
+    "result": "lose"
+  },
+  {
+    "kana": "サカイミユナ",
+    "tel4": "1925",
+    "result": "lose"
+  },
+  {
+    "kana": "モンマサトミ",
+    "tel4": "8083",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ニイノレイシ",
+    "tel4": "7508",
+    "result": "lose"
+  },
+  {
+    "kana": "タケウチコウタロウ",
+    "tel4": "8900",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ヒラヤマスズネ",
+    "tel4": "5433",
+    "result": "lose"
+  },
+  {
+    "kana": "ヒラヤマショウタロウ",
+    "tel4": "5433",
+    "result": "lose"
+  },
+  {
+    "kana": "イノウエアラタ",
+    "tel4": "3008",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ホソイハルキ",
+    "tel4": "8793",
+    "result": "lose"
+  },
+  {
+    "kana": "ウブカタコトナ",
+    "tel4": "6748",
+    "result": "lose"
+  },
+  {
+    "kana": "ウブカタフミト",
+    "tel4": "6748",
+    "result": "lose"
+  },
+  {
+    "kana": "コイケアキト",
+    "tel4": "4466",
+    "result": "lose"
+  },
+  {
+    "kana": "セキグチホノカ",
+    "tel4": "6762",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ヨシザワカンナ",
+    "tel4": "0225",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "カネコミノリ",
+    "tel4": "7990",
+    "result": "lose"
+  },
+  {
+    "kana": "マツザキサエ",
+    "tel4": "8950",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "イケダコウタ",
+    "tel4": "3623",
+    "result": "lose"
+  },
+  {
+    "kana": "スギタキョウスケ",
+    "tel4": "8956",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アクツサアヤ",
+    "tel4": "8006",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "スガヌマヨウタ",
+    "tel4": "1831",
+    "result": "lose"
+  },
+  {
+    "kana": "アオキタイチ",
+    "tel4": "7749",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "イケダサクラ",
+    "tel4": "1518",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "スガヌマトモキ",
+    "tel4": "1831",
+    "result": "lose"
+  },
+  {
+    "kana": "カワウチヒナノ",
+    "tel4": "0412",
+    "result": "lose"
+  },
+  {
+    "kana": "タケウチレイ",
+    "tel4": "4459",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "シロタルイ",
+    "tel4": "4171",
+    "result": "lose"
+  },
+  {
+    "kana": "シロタエレナ",
+    "tel4": "4171",
+    "result": "lose"
+  },
+  {
+    "kana": "モガミソウタ",
+    "tel4": "8180",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ヨシハラハヤト",
+    "tel4": "8099",
+    "result": "lose"
+  },
+  {
+    "kana": "ヨシハラリッカ",
+    "tel4": "8099",
+    "result": "lose"
+  },
+  {
+    "kana": "トヨダイツキ",
+    "tel4": "0423",
+    "result": "lose"
+  },
+  {
+    "kana": "トヨダヒイラギ",
+    "tel4": "0423",
+    "result": "lose"
+  },
+  {
+    "kana": "アンドウタイセイ",
+    "tel4": "6614",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ホリコシアオト",
+    "tel4": "5934",
+    "result": "lose"
+  },
+  {
+    "kana": "フジイユズハ",
+    "tel4": "7835",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "フジイリョウタ",
+    "tel4": "7835",
+    "result": "lose"
+  },
+  {
+    "kana": "トクタケシュン",
+    "tel4": "7185",
+    "result": "lose"
+  },
+  {
+    "kana": "トクタケリョウ",
+    "tel4": "7185",
+    "result": "lose"
+  },
+  {
+    "kana": "ノナカリンナ",
+    "tel4": "5628",
+    "result": "lose"
+  },
+  {
+    "kana": "モテキミナト",
+    "tel4": "0818",
+    "result": "lose"
+  },
+  {
+    "kana": "モテキライト",
+    "tel4": "0818",
+    "result": "lose"
+  },
+  {
+    "kana": "シミズリキ",
+    "tel4": "2975",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "クライシトモユキ",
+    "tel4": "0960",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ストウサナ",
+    "tel4": "7120",
+    "result": "lose"
+  },
+  {
+    "kana": "ハヤシヨシキ",
+    "tel4": "0179",
+    "result": "lose"
+  },
+  {
+    "kana": "オオヤマアオイ",
+    "tel4": "7588",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "キシユウト",
+    "tel4": "8757",
+    "result": "lose"
+  },
+  {
+    "kana": "タカイショウマ",
+    "tel4": "5186",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "シオヅトモキ",
+    "tel4": "4850",
+    "result": "lose"
+  },
+  {
+    "kana": "ヨシダフウヤ",
+    "tel4": "5628",
+    "result": "lose"
+  },
+  {
+    "kana": "マツイケイタ",
+    "tel4": "9376",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "マツイソウタ",
+    "tel4": "9376",
+    "result": "lose"
+  },
+  {
+    "kana": "コンドウユウ",
+    "tel4": "8425",
+    "result": "lose"
+  },
+  {
+    "kana": "カネコヒナミ",
+    "tel4": "6675",
+    "result": "lose"
+  },
+  {
+    "kana": "カネコミナリ",
+    "tel4": "6675",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "キシライキ",
+    "tel4": "0382",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "タカハシタケル",
+    "tel4": "4455",
+    "result": "lose"
+  },
+  {
+    "kana": "タカハシシュン",
+    "tel4": "4455",
+    "result": "lose"
+  },
+  {
+    "kana": "トミオカミナミ",
+    "tel4": "3306",
+    "result": "lose"
+  },
+  {
+    "kana": "トミオカチヒロ",
+    "tel4": "3306",
+    "result": "lose"
+  },
+  {
+    "kana": "ヒラマツシオ",
+    "tel4": "3830",
+    "result": "lose"
+  },
+  {
+    "kana": "クロイワマヒロ",
+    "tel4": "7798",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ナガトモケント",
+    "tel4": "0557",
+    "result": "lose"
+  },
+  {
+    "kana": "サクライソウタ",
+    "tel4": "0867",
+    "result": "lose"
+  },
+  {
+    "kana": "オマタツバサ",
+    "tel4": "0027",
+    "result": "lose"
+  },
+  {
+    "kana": "カンノユイ",
+    "tel4": "0845",
+    "result": "lose"
+  },
+  {
+    "kana": "アカイワソウスケ",
+    "tel4": "9090",
+    "result": "lose"
+  },
+  {
+    "kana": "アライチカ",
+    "tel4": "0079",
+    "result": "lose"
+  },
+  {
+    "kana": "アライミユウ",
+    "tel4": "0079",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ワタナベアオ",
+    "tel4": "1670",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "スズキタスキ",
+    "tel4": "9452",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "シミズエマ",
+    "tel4": "9460",
+    "result": "lose"
+  },
+  {
+    "kana": "セキイチカ",
+    "tel4": "0528",
+    "result": "lose"
+  },
+  {
+    "kana": "モリタユヅキ",
+    "tel4": "3510",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アサヒナレン",
+    "tel4": "0181",
+    "result": "lose"
+  },
+  {
+    "kana": "アサヒナコウ",
+    "tel4": "0181",
+    "result": "lose"
+  },
+  {
+    "kana": "フカノアヤカ",
+    "tel4": "2260",
+    "result": "lose"
+  },
+  {
+    "kana": "ノグチハルト",
+    "tel4": "8479",
+    "result": "lose"
+  },
+  {
+    "kana": "アリエリオン",
+    "tel4": "1347",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ゴトウユウワ",
+    "tel4": "4692",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "コバヤシホノ",
+    "tel4": "9189",
+    "result": "lose"
+  },
+  {
+    "kana": "カトウシュン",
+    "tel4": "0492",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "カトウレオ",
+    "tel4": "0492",
+    "result": "lose"
+  },
+  {
+    "kana": "モギアヤネ",
+    "tel4": "7889",
+    "result": "lose"
+  },
+  {
+    "kana": "スダカナミ",
+    "tel4": "1625",
+    "result": "lose"
+  },
+  {
+    "kana": "モトヤマアヤト",
+    "tel4": "0677",
+    "result": "lose"
+  },
+  {
+    "kana": "ヒビコウキ",
+    "tel4": "3452",
+    "result": "lose"
+  },
+  {
+    "kana": "カトウケイ",
+    "tel4": "3771",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "カトウアラタ",
+    "tel4": "3771",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "スミヤキホ",
+    "tel4": "1200",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "オオツカハルト",
+    "tel4": "3005",
+    "result": "lose"
+  },
+  {
+    "kana": "フクダダイア",
+    "tel4": "4889",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "タシロソウタ",
+    "tel4": "7173",
+    "result": "lose"
+  },
+  {
+    "kana": "イイジマタイシ",
+    "tel4": "9237",
+    "result": "lose"
+  },
+  {
+    "kana": "ハトリゲンタ",
+    "tel4": "4571",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "トミサワコウガ",
+    "tel4": "0728",
+    "result": "lose"
+  },
+  {
+    "kana": "ミヤザワレオ",
+    "tel4": "7954",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ミヤザワゼン",
+    "tel4": "7954",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アクザワタイム",
+    "tel4": "8722",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "カワノコウスケ",
+    "tel4": "2372",
+    "result": "lose"
+  },
+  {
+    "kana": "タガワユウリ",
+    "tel4": "4648",
+    "result": "lose"
+  },
+  {
+    "kana": "オカダリュウセイ",
+    "tel4": "0859",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "オオツカメブキ",
+    "tel4": "2849",
+    "result": "lose"
+  },
+  {
+    "kana": "クロイワダイチ",
+    "tel4": "7117",
+    "result": "lose"
+  },
+  {
+    "kana": "トミザワレオ",
+    "tel4": "8966",
+    "result": "lose"
+  },
+  {
+    "kana": "セキグチジュナ",
+    "tel4": "9658",
+    "result": "lose"
+  },
+  {
+    "kana": "ツチヤコハル",
+    "tel4": "4108",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "オオヤマユキマサ",
+    "tel4": "2428",
+    "result": "lose"
+  },
+  {
+    "kana": "ハラアキト",
+    "tel4": "0681",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ヤマムロケイタ",
+    "tel4": "8873",
+    "result": "lose"
+  },
+  {
+    "kana": "スズキヒロキ",
+    "tel4": "0170",
+    "result": "lose"
+  },
+  {
+    "kana": "カキヌマユウリ",
+    "tel4": "5355",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "スギキキスケ",
+    "tel4": "4722",
+    "result": "lose"
+  },
+  {
+    "kana": "ヒキチマユ",
+    "tel4": "3638",
+    "result": "lose"
+  },
+  {
+    "kana": "タカハシシュンヤ",
+    "tel4": "2989",
+    "result": "lose"
+  },
+  {
+    "kana": "セキイチカ",
+    "tel4": "8709",
+    "result": "lose"
+  },
+  {
+    "kana": "エノモトヒヨリ",
+    "tel4": "1090",
+    "result": "lose"
+  },
+  {
+    "kana": "マツオカカヅキ",
+    "tel4": "8653",
+    "result": "lose"
+  },
+  {
+    "kana": "マツオリョウスケ",
+    "tel4": "1282",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "マチダショウ",
+    "tel4": "0252",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "サカイヒナコ",
+    "tel4": "3025",
+    "result": "lose"
+  },
+  {
+    "kana": "ナカムラコトハ",
+    "tel4": "9544",
+    "result": "lose"
+  },
+  {
+    "kana": "カキザキサラ",
+    "tel4": "3806",
+    "result": "lose"
+  },
+  {
+    "kana": "カキザキゲンシ",
+    "tel4": "5230",
+    "result": "lose"
+  },
+  {
+    "kana": "ナカムラユイ",
+    "tel4": "0452",
+    "result": "lose"
+  },
+  {
+    "kana": "ナカムラレイ",
+    "tel4": "0452",
+    "result": "lose"
+  },
+  {
+    "kana": "テラオキハタ",
+    "tel4": "1669",
+    "result": "lose"
+  },
+  {
+    "kana": "ナガイコウシロウ",
+    "tel4": "6173",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アラカワカイ",
+    "tel4": "4976",
+    "result": "lose"
+  },
+  {
+    "kana": "カナヤトモカ",
+    "tel4": "3807",
+    "result": "lose"
+  },
+  {
+    "kana": "カナヤカズマ",
+    "tel4": "3807",
+    "result": "lose"
+  },
+  {
+    "kana": "イヨダサクラ",
+    "tel4": "2624",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アマダケイスケ",
+    "tel4": "5296",
+    "result": "lose"
+  },
+  {
+    "kana": "スダシュンスケ",
+    "tel4": "8568",
+    "result": "lose"
+  },
+  {
+    "kana": "クボコウダイ",
+    "tel4": "7654",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ストウリョウタ",
+    "tel4": "6794",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アキヤマコハル",
+    "tel4": "8750",
+    "result": "lose"
+  },
+  {
+    "kana": "ハヤシナツキ",
+    "tel4": "9820",
+    "result": "lose"
+  },
+  {
+    "kana": "ワタナベユウセイ",
+    "tel4": "8217",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "オザワイツキ",
+    "tel4": "3865",
+    "result": "lose"
+  },
+  {
+    "kana": "オザワミサキ",
+    "tel4": "3865",
+    "result": "lose"
+  },
+  {
+    "kana": "シミズケント",
+    "tel4": "6687",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ハギノガイト",
+    "tel4": "1823",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ニシソウマ",
+    "tel4": "1761",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "フタツヤシュン",
+    "tel4": "0352",
+    "result": "lose"
+  },
+  {
+    "kana": "ミナガワイチカ",
+    "tel4": "7467",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "タカハシモモカ",
+    "tel4": "4903",
+    "result": "lose"
+  },
+  {
+    "kana": "マツグチシュンタ",
+    "tel4": "1109",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "カトウレン",
+    "tel4": "6689",
+    "result": "lose"
+  },
+  {
+    "kana": "シミズチャーリーアキ",
+    "tel4": "5779",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "シミズエリーサクラ",
+    "tel4": "5779",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "マルヤマユウト",
+    "tel4": "2182",
+    "result": "lose"
+  },
+  {
+    "kana": "モギノゾミ",
+    "tel4": "7401",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ウブカタヨシノリ",
+    "tel4": "7277",
+    "result": "lose"
+  },
+  {
+    "kana": "フジサワソウスケ",
+    "tel4": "4161",
+    "result": "lose"
+  },
+  {
+    "kana": "フジサワサキト",
+    "tel4": "4161",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ミズシマソラ",
+    "tel4": "7789",
+    "result": "lose"
+  },
+  {
+    "kana": "ミズシマリキ",
+    "tel4": "7789",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "アベタクト",
+    "tel4": "7341",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ホシノタツアキ",
+    "tel4": "3241",
+    "result": "lose"
+  },
+  {
+    "kana": "ホシノキョウカ",
+    "tel4": "3241",
+    "result": "lose"
+  },
+  {
+    "kana": "フジタリンタロウ",
+    "tel4": "6017",
+    "result": "lose"
+  },
+  {
+    "kana": "マルヤマアヤネ",
+    "tel4": "8798",
+    "result": "lose"
+  },
+  {
+    "kana": "サワウチヒトハ",
+    "tel4": "9289",
+    "result": "lose"
+  },
+  {
+    "kana": "ヤジマホナミ",
+    "tel4": "1570",
+    "result": "lose"
+  },
+  {
+    "kana": "ヤジマナナミ",
+    "tel4": "1570",
+    "result": "lose"
+  },
+  {
+    "kana": "ヤジマミサキ",
+    "tel4": "1570",
+    "result": "win",
+    "targetUrl": "https://platform.claris.com/form/3951/39#s=bXN0XzNFbERud3JXM1VOUmplaWsxUHpKTnFaYWk3Q3dSZUViOmJjZmY3MmUwZmM5ZmE5YmNhNmMyNjFmMGVmMWJmOGIwNTNhNzQ4YjI0Y2Q3YWUwMzc5NGE5OTViZGUzN2Q1ZDI="
+  },
+  {
+    "kana": "ホリグチヨシノリ",
+    "tel4": "8718",
+    "result": "lose"
+  },
+  {
+    "kana": "タケモトハナ",
+    "tel4": "6839",
+    "result": "lose"
+  },
+  {
+    "kana": "サメジマリョウ",
+    "tel4": "4458",
     "result": "lose"
   }
 ]
